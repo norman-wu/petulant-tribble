@@ -1,4 +1,6 @@
 bdscbi
+sb is me!
+hmm rebase works!
 This is the FIRST EDIT!!
 echo "# petulant-tribble" >> README.md
 git init Luo's change 
@@ -6,3 +8,5 @@ git add README.md Lunzi
 git commit -m "first commit" hahah
 git remote add origin https://github.com/norman-wu/petulant-tribble.git
 git push -u origin master
+
+This is anotheer line
